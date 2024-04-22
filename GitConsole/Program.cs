@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("master branch");
+Console.WriteLine("Wadup master folks");
